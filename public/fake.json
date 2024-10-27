@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/m8SBRzn/chris-gayle.jpg",
+      "player_icon": "https://i.ibb.co.com/LZ0KJpx/gayle-icon.jpg",
+      "name": "Chris Gayle",
+      "flag": "https://i.ibb.co.com/XDsXPff/west-indies-flag.jpg",
+      "country": "West-Indies",
+      "rating": 4.9,
+      "position": "Left-hand-side",
+      "type": "All-Rounder",
+      "price": 200000,
+      "Ball_Type": "Right-off-break"
+    },
+    {
+        "id": 2,
+      "image": "https://i.ibb.co.com/mSPB9Nv/shane-watson.jpg",
+      "player_icon": "https://i.ibb.co.com/ZdmvM1d/shane-watson-icon.jpg",
+      "name": "Shane Watson",
+      "flag": "https://i.ibb.co.com/Lpx3Z8t/newzealand-flag.jpg",
+      "country": "Australia",
+      "rating": 4.4,
+      "position": "Right-hand-side",
+      "type": "All-Rounder",
+      "price": 250000,
+      "Ball_Type": "Medium-Fast"
+    },
+    {
+        "id": 3,
+      "image": "https://i.ibb.co.com/s2mBXYc/AB-de-Villers.jpg",
+      "player_icon": "https://i.ibb.co.com/nrqnkqV/ab-devillers-icon.jpg",
+      "name": "AB de Villiars",
+      "flag": "https://i.ibb.co.com/TW1xq90/south-africa-flag.jpg",
+      "country": "South-Africa",
+      "rating": 4.8,
+      "position": "Right-hand-side",
+      "type": "Batsman",
+      "price": 300000
+    },
+    {
+        "id": 4,
+      "image": "https://i.ibb.co.com/NLNBnWW/brenodn-mcculam.jpg",
+      "player_icon": "https://i.ibb.co.com/3TgkzZB/brendo-mcculam-icon.jpg",
+      "name": "Brendon Mcculum",
+      "flag": "https://i.ibb.co.com/Lpx3Z8t/newzealand-flag.jpg",
+      "country": "New-zealand",
+      "rating": 4.6,
+      "position": "Right-hand-side",
+      "type": "Batsman",
+      "price": 350000
+    },
+    {
+        "id": 5,
+      "image": "https://i.ibb.co.com/bJc5pDt/tamim-iqbal.jpg",
+      "player_icon":"https://i.ibb.co.com/yXJWZh4/tamim-iqbal-icon.jpg",
+      "name": "Tamim iqbal",
+      "flag": "https://i.ibb.co.com/v48LMFG/bangladesh-flag.png",
+      "country": "Bangladesh",
+      "rating": 3.8,
+      "position": "Left-hand-side",
+      "type": "Batsman",
+      "price": 400000
+    },
+    {
+        "id": 6,
+      "image": "https://i.ibb.co.com/j3D6Kjk/kohli.jpg",
+      "player_icon": "https://i.ibb.co.com/56SfKFX/virat-kohali-icon.jpg",
+      "name": "Virat Kohalli",
+      "flag": "https://i.ibb.co.com/VQx2LFn/india-flag.jpg",
+      "country": "India",
+      "rating": 4.5,
+      "position": "Right-hand-side",
+      "type": "All-Rounder",
+      "price": 500000,
+      "Ball_Type": "Medium-Fast"
+    }, 
+     {
+        "id": 7,
+      "image": "https://i.ibb.co.com/yYXwYrB/kane-willamson.jpg",
+      "player_icon": "https://i.ibb.co.com/0hSM0dN/kane-williamson-icon.jpg",
+      "name": "Kane Williamson",
+      "flag": "https://i.ibb.co.com/Lpx3Z8t/newzealand-flag.jpg",
+      "country": "New-zealand",
+      "rating": 4.8,
+      "position": "Right-hand-side",
+      "type": "Batsman",
+      "price": 700000,
+      "Ball_Type": ""
+    },
+    {
+        "id": 8,
+      "image": "https://i.ibb.co.com/nsVHyrm/eoin-morgan.jpg",
+      "player_icon": "https://i.ibb.co.com/5sXMNrk/eoin-morgan-icon.jpg",
+      "name": "Eoin Morgan",
+      "flag": "https://i.ibb.co.com/mcpRb2F/england-flag.jpg",
+      "country": "England",
+      "rating": 4.6,
+      "position": "Right-hand-side",
+      "type": "Batsman",
+      "price": 400000,
+      "Ball_Type": ""
+    },
+      {
+        "id": 9,
+      "image": "https://i.ibb.co.com/sghz2MK/jasprit-bumrah.webp",
+      "player_icon": "https://i.ibb.co.com/JzfbZXs/jasprit-bumrah-icon.jpg",
+      "name": "Jasprit Bumrah",
+      "flag": "https://i.ibb.co.com/VQx2LFn/india-flag.jpg",
+      "country": "India",
+      "rating": 4.4,
+      "position": "Right-hand-side",
+      "type": "Batsman",
+      "price": 600000,
+      "Ball_Type": "Fast Bowler"
+    }
+
+  ]
